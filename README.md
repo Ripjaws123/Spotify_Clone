@@ -1,6 +1,6 @@
 # Basic Spotify UI with the Audio Function
 
-#### !Note: Songs and the albums cant be seen because the usage of the local storage so that the files are not present 
+#### !Note: Songs and the albums cant be seen in the live Preview because the usage of the local storage so that the files are not present 
 
 ### Screensort:
 
